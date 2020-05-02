@@ -3,7 +3,7 @@
     "description": "Product Attachment Magento 2 extension",
     "homepage": "https://github.com/MagePixel/ProductAttachment",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
@@ -14,7 +14,7 @@
     "support": {
         "issues": "https://github.com/MagePixel/ShippingPerProduct"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {},
     "autoload": {
