@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<!--
+  ~ @author MagePixel Team
+  ~ @copyright Copyright © 2019 MagePixel. All rights reserved.
+  -->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="MagePixel_ShippingPerProduct" setup_version="1.0.0">
+    </module>
+</config>

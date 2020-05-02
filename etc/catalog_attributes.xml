@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<!--
+  ~ @author MagePixel Team
+  ~ @copyright Copyright © 2019 MagePixel. All rights reserved.
+  -->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Catalog:etc/catalog_attributes.xsd">
+    <group name="quote_item">
+        <attribute name="shipping_cost"/>
+        <attribute name="shipping_cost_type"/>
+    </group>
+</config>

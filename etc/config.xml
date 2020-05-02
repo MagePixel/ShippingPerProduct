@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<!--
+  ~ @author MagePixel Team
+  ~ @copyright Copyright © 2019 MagePixel. All rights reserved.
+  -->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <shippingperproduct>
+                <active>0</active>
+                <use_default_price>0</use_default_price>
+                <price>0</price>
+                <multiply_qty>0</multiply_qty>
+                <model>MagePixel\ShippingPerProduct\Model\Carrier\ShippingPerProduct</model>
+                <name>Fixed</name>
+                <title>Shipping Per Product</title>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <min_subtotal>0</min_subtotal>
+                <max_subtotal>999999</max_subtotal>
+                <sallowspecific>0</sallowspecific>
+            </shippingperproduct>
+        </carriers>
+    </default>
+</config>

@@ -1,0 +1,28 @@
+{
+    "name": "magepixel/module-shipping-per-product",
+    "description": "Product Attachment Magento 2 extension",
+    "homepage": "https://github.com/MagePixel/ProductAttachment",
+    "type": "magento2-module",
+    "version": "1.2.0",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+          "name": "MagePixel",
+          "email": "mage4pixel@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/MagePixel/ShippingPerProduct"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MagePixel\\ShippingPerProduct\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
