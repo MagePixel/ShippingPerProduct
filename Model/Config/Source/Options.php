@@ -1,7 +1,8 @@
 <?php
 /**
  * @author MagePixel Team
- * @copyright Copyright © 2019 MagePixel. All rights reserved.
+ * @copyright Copyright (c) 2020 MagePixel (http://www.magepixel.com/)
+ * @package MagePixel_ShippingPerProduct
  */
 
 namespace MagePixel\ShippingPerProduct\Model\Config\Source;

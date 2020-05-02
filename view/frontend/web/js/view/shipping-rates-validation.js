@@ -1,6 +1,7 @@
 /*
  * @author MagePixel Team
- * @copyright Copyright © 2019 MagePixel. All rights reserved.
+ * @copyright Copyright (c) 2020 MagePixel (http://www.magepixel.com/)
+ * @package MagePixel_ShippingPerProduct
  */
 /*browser:true*/
 /*global define*/

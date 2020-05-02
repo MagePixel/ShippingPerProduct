@@ -2,7 +2,8 @@
 
 <!--
   ~ @author MagePixel Team
-  ~ @copyright Copyright © 2019 MagePixel. All rights reserved.
+  ~ @copyright Copyright (c) 2020 MagePixel (http://www.magepixel.com/)
+  ~ @package MagePixel_ShippingPerProduct
   -->
 
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
